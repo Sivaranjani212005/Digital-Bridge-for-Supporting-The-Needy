@@ -1,4 +1,4 @@
-/* UploadItems.css */
+
 
 .upload-container1 {
     display: flex;
@@ -10,7 +10,7 @@
 
 .view-donations-button {
     padding: 12px 24px;
-    background-color: #4caf50; /* Green color */
+    background-color: #4caf50;
     color: white;
     border: none;
     border-radius: 8px;
