@@ -28,7 +28,7 @@ body {
   box-shadow: 0 25px 35px rgba(0, 0, 0, 0.3);
 }
 
-/* Form Labels */
+
 label {
   display: block;
   font-weight: bold;
@@ -37,7 +37,7 @@ label {
   font-size: 16px;
 }
 
-/* Input and Textarea Fields */
+
 input[type="text"],
 input[type="tel"],
 input[type="number"],
@@ -78,7 +78,7 @@ select:focus {
   box-shadow: 0 8px 15px rgba(52, 152, 219, 0.3);
 }
 
-/* Add Item Button */
+
 .add-item-button {
   display: flex;
   align-items: center;
@@ -103,13 +103,13 @@ select:focus {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
-/* Plus Sign Icon */
+
 .plus-sign {
   font-size: 28px;
   margin-right: 10px;
 }
 
-/* Item Cards */
+
 .item-list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
@@ -141,7 +141,7 @@ select:focus {
   margin-bottom: 5px;
 }
 
-/* Done Button */
+
 .done {
   width: 100%;
   padding: 12px;
@@ -163,7 +163,7 @@ select:focus {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
-/* Modal Overlay */
+
 .modal-overlay {
   position: fixed;
   top: 0;
@@ -177,7 +177,7 @@ select:focus {
   z-index: 1000;
 }
 
-/* Modal Content */
+
 .modal-content {
   background: rgba(255, 255, 255, 0.9);
   padding: 40px;
@@ -188,7 +188,7 @@ select:focus {
   position: relative;
 }
 
-/* Close Button */
+
 .close-button {
   position: absolute;
   top: 10px;
@@ -203,7 +203,7 @@ select:focus {
   color: #c0392b;
 }
 
-/* Add Button in Modal */
+
 .add-button {
   width: 100%;
   padding: 12px;
@@ -221,7 +221,7 @@ select:focus {
   transform: translateY(-3px);
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
   .upload-container {
       padding: 20px;
